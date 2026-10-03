@@ -61,7 +61,7 @@ Identifies products contributing to the highest losses.
 
 ## 📷 Dashboard Preview
 
-![US Sales & Profit Analysis Dashboard](Dashboard/US_Sales_Profit_Analysis_Dashboard.png)
+![US Sales & Profit Analysis Dashboard](dashboard.png)
 
 ## 💡 Key Learnings
 
